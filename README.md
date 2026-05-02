@@ -48,6 +48,8 @@ This repo is a documentation and skill bundle. To use it:
 - Anthropic Skills spec / agentskills.io
 - AGENTS.md spec (Linux Foundation Agentic AI Foundation)
 
+See also: [trinity-dialectic](https://github.com/0SxD/trinity-dialectic) for output-side dialectical evaluation.
+
 ## License
 
 MIT. Copyright (c) 2026 Sage / 0SxD
